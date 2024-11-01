@@ -12,6 +12,7 @@ Table of Contents
 I. Adding the meta-mm5d91-gui layer to your build
 =================================================
 
+git checkout scarthgap
 Run 'bitbake-layers add-layer meta-mm5d91-gui'
 remove links from <path to your yocto main source folder>/meta-mm5d91-gui/recipes-mm5d91-gui/mm5d91-gui/files/
 link required files:
